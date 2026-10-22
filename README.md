@@ -17,10 +17,6 @@
 
 ## GitHub stats
 
-## GitHub stats
-
-## GitHub stats
-
 <div align="center">
 
 <table>
