@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="assets/zerotrace banner.png" width="100%" alt="ZeroTrace Labs cyber security terminal profile banner"/>
+<img src="assets/assetszerotrace banner.pn" width="100%" alt="ZeroTrace Labs cyber security terminal profile banner"/>
 
 ### `> Mapping threats. Testing defenses. Building securely.`
 
