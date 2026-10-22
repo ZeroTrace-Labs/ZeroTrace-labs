@@ -19,13 +19,23 @@
 
 ## GitHub stats
 
+## GitHub stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZeroTrace-Labs&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=F8FAFC&icon_color=7C3AED&ring_color=10B981" alt="GitHub statistics" width="60%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroTrace-Labs&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=F8FAFC" alt="Most used programming languages" width="60%"/>
-
-<img src="https://streak-stats.demolab.com?user=ZeroTrace-Labs&hide_border=true&background=0F172A&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub contribution streak" width="60%"/>
+<table>
+<tr>
+<td width="33%" align="center" valign="middle">
+<img src="https://github-readme-stats.vercel.app/api?username=ZeroTrace-Labs&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=F8FAFC&icon_color=7C3AED&ring_color=10B981&hide_title=false" alt="GitHub statistics" width="100%"/>
+</td>
+<td width="33%" align="center" valign="middle">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroTrace-Labs&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=F8FAFC" alt="Most used programming languages" width="100%"/>
+</td>
+<td width="33%" align="center" valign="middle">
+<img src="https://streak-stats.demolab.com?user=ZeroTrace-Labs&hide_border=true&background=0F172A&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub contribution streak" width="100%"/>
+</td>
+</tr>
+</table>
 
 </div>
 ---
