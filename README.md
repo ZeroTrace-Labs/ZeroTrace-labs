@@ -19,7 +19,7 @@ I'm **Sri Sushmita Dasari**, an AI/ML engineer, full-stack developer, and creati
 
 ## Projects
 
-Browse my work in my [repositories](https://github.com/USERNAME?tab=repositories).
+Browse my work in my [repositories](https://github.com/ZeroTrace-Labs?tab=repositories).
 
 ## Skills
 
@@ -31,17 +31,16 @@ Browse my work in my [repositories](https://github.com/USERNAME?tab=repositories
 
 ## Contributions
 
-<img src="https://ghchart.rshah.org/22D3EE/USERNAME" alt="GitHub contribution heatmap" width="100%">
+<img src="https://ghchart.rshah.org/22D3EE/ZeroTrace-Labs" alt="GitHub contribution heatmap" width="100%">
 
 ## GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=F8FAFC&icon_color=7C3AED&ring_color=10B981" alt="GitHub statistics" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=ZeroTrace-Labs&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=F8FAFC&icon_color=7C3AED&ring_color=10B981" alt="GitHub statistics" width="100%">
 
 ## Find me
 
-- [GitHub](https://github.com/USERNAME)
-- [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
-- [Portfolio](https://YOUR-SITE)
+- [GitHub](https://github.com/ZeroTrace-Labs)
+- [LinkedIn](https://www.linkedin.com/in/morgan-mutugi)
 
 <div align="center">
 <img src="assets/sushmita-footer.svg" alt="" width="100%">
