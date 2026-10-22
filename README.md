@@ -1,11 +1,29 @@
  <div align="center">
 
-<img src="assets/zerotrace-banner.png" width="100%" alt="ZeroTrace Labs cyber security terminal profile banner"/>
+<img src="https://raw.githubusercontent.com/ZeroTrace-Labs/ZeroTrace-Labs/main/assets/zerotrace-banner.png" width="100%" alt="ZeroTrace Labs cybersecurity terminal banner"/>
 
 ### `> Mapping threats. Testing defenses. Building securely.`
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://zerotrace-labs.github.io/PORTFOLIO/)
-[![GitHub](https://img.shields.io/badge/GITHUB-0A101F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/ZeroTrace-Labs)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://zerotrace-labs.github.io/PORTFOLIO/)
+[![GitHub](https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/ZeroTrace-Labs)
+
+</div>
+
+---
+
+## Contributions
+
+<img src="https://ghchart.rshah.org/22D3EE/ZeroTrace-Labs" alt="GitHub contribution heatmap" width="100%"/>
+
+## GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ZeroTrace-Labs&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=F8FAFC&icon_color=7C3AED&ring_color=10B981" alt="GitHub statistics" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroTrace-Labs&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=F8FAFC" alt="Most used programming languages" width="100%"/>
+
+<img src="https://streak-stats.demolab.com?user=ZeroTrace-Labs&hide_border=true&background=0F172A&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub contribution streak" width="100%"/>
 
 </div>
 
@@ -13,9 +31,9 @@
 
 ## `01 // WHOAMI`
 
-I'm building my foundation in **Computer Science and Cyber Security**, with an interest in understanding how systems work, how vulnerabilities emerge, and how security controls help protect digital environments.
+I'm building my foundation in **Computer Science and Cyber Security**, with an interest in understanding how systems work, how vulnerabilities arise, and how security controls help protect digital environments.
 
-My focus is on developing practical technical skills through hands-on labs, software testing, system exploration, and documented projects.
+My goal is to develop practical skills through hands-on labs, software testing, system exploration, and documented projects.
 
 - **Role:** Aspiring Cybersecurity Analyst
 - **Education:** ICM Computer Science & Cyber Security
@@ -58,56 +76,28 @@ My focus is on developing practical technical skills through hands-on labs, soft
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-0A101F?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-0A101F?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE)
+![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE)
 
 </div>
-
-> Add additional tools such as Wireshark, Nmap, Python, or Burp Suite when you have hands-on experience with them.
 
 ## `04 // FEATURED PROJECTS`
 
 Explore my [Cybersecurity Portfolio](https://zerotrace-labs.github.io/PORTFOLIO/) for my projects, security labs, and technical work.
 
-I'm working toward documenting projects with a clear structure:
+My project documentation aims to include:
 
-- **Objective:** What problem the project addresses.
+- **Objective:** The problem being addressed.
 - **Environment:** Systems and tools used.
-- **Methodology:** Steps taken during the investigation or test.
-- **Evidence:** Relevant screenshots, logs, or results.
+- **Methodology:** Steps followed during testing or investigation.
+- **Evidence:** Relevant screenshots, logs, and results.
 - **Findings:** What the work revealed.
-- **Remediation:** How identified issues could be addressed.
+- **Remediation:** Recommended corrective actions.
 - **Lessons learned:** Skills and concepts demonstrated.
 
-## `05 // GITHUB STATISTICS`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZeroTrace-Labs&show_icons=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=C9D1D9&icon_color=10B981&hide_rank=true" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroTrace-Labs&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=C9D1D9" alt="Most used programming languages"/>
-
-<br/>
-
-<img width="100%" src="https://streak-stats.demolab.com?user=ZeroTrace-Labs&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
-
-</div>
-
-## `06 // CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZeroTrace-Labs/ZeroTrace-Labs/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZeroTrace-Labs/ZeroTrace-Labs/output/github-contribution-grid-snake.svg"/>
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/ZeroTrace-Labs/ZeroTrace-Labs/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
-## `07 // CURRENT MISSION`
+## `05 // CURRENT MISSION`
 
 - Strengthen my Computer Science and Cyber Security foundations.
 - Develop practical skills in Linux, networking, and security testing.
@@ -115,12 +105,13 @@ I'm working toward documenting projects with a clear structure:
 - Improve my understanding of vulnerability assessment and defensive security.
 - Create a portfolio that demonstrates measurable technical progress.
 
-## `08 // CONNECT`
+## `06 // CONNECT`
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/WEBSITE-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://zerotrace-labs.github.io/PORTFOLIO/)
-[![GitHub](https://img.shields.io/badge/GITHUB-0A101F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/ZeroTrace-Labs)
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://zerotrace-labs.github.io/PORTFOLIO/)
+
+[![GitHub](https://img.shields.io/badge/FOLLOW_MY_WORK-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/ZeroTrace-Labs)
 
 </div>
 
