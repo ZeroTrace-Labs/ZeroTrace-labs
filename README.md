@@ -1,106 +1,126 @@
- <!--
-  GitHub Profile README
-  Repository: ZeroTrace-Labs/ZeroTrace-Labs
--->
+ <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0A101F,50:312E81,100:0891B2&text=ZeroTrace%20Labs&fontColor=E2E8F0&fontSize=48&fontAlignY=40&desc=CYBERSECURITY%20%7C%20COMPUTER%20SCIENCE%20%7C%20SECURITY%20RESEARCH&descSize=12&descAlignY=60&animation=fadeIn" width="100%" alt="ZeroTrace Labs cybersecurity banner"/>
+<img src="assets/zerotrace banner.png" width="100%" alt="ZeroTrace Labs cyber security terminal profile banner"/>
 
 ### `> Mapping threats. Testing defenses. Building securely.`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://zerotrace-labs.github.io/PORTFOLIO/)
-[![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/ZeroTrace-Labs)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://zerotrace-labs.github.io/PORTFOLIO/)
+[![GitHub](https://img.shields.io/badge/GITHUB-0A101F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/ZeroTrace-Labs)
 
 </div>
 
 ---
 
-## `whoami`
+## `01 // WHOAMI`
 
-I'm building my foundation in **Computer Science and Cyber Security**, with a focus on understanding how systems work, how vulnerabilities arise, and how security controls can reduce risk.
+I'm building my foundation in **Computer Science and Cyber Security**, with an interest in understanding how systems work, how vulnerabilities emerge, and how security controls help protect digital environments.
 
-My goal is to develop practical, demonstrable skills through hands-on labs, technical projects, and continuous learning.
+My focus is on developing practical technical skills through hands-on labs, software testing, system exploration, and documented projects.
 
-- **Focus:** Cybersecurity, security testing, and computer systems
-- **Learning:** Linux, networking, security fundamentals, and software testing
-- **Approach:** Hands-on practice, documentation, and continuous improvement
-- **Portfolio:** [Explore my work](https://zerotrace-labs.github.io/PORTFOLIO/)
+- **Role:** Aspiring Cybersecurity Analyst
+- **Education:** ICM Computer Science & Cyber Security
+- **Location:** Kenya
+- **Focus:** Cybersecurity, security testing, computer systems, and networking
+- **Approach:** Learn, build, test, document, improve
 
-## `technical_interests`
+## `02 // TECHNICAL INTERESTS`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### Cybersecurity
+
 - Security fundamentals
-- Access control and authentication
 - Network security
+- Access control and authentication
 - Cryptography fundamentals
+- Firewalls and intrusion detection
 - Security risk assessment
 
 </td>
 <td width="50%" valign="top">
 
-### Systems & Testing
-- Linux and operating systems
-- Computer systems and networking
-- Software testing fundamentals
-- Test cases and test data
-- Defect identification and reporting
+### Computer Science & Systems
+
+- Computer systems and operating systems
+- Client-server architecture
+- Programming fundamentals
+- Data storage concepts
+- Software testing
+- Test cases, test data, and defect reporting
 
 </td>
 </tr>
 </table>
 
-## `toolkit`
+## `03 // TOOLCHAIN`
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-0A101F?style=flat-square&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0A101F?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=flat-square&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-0A101F?style=flat-square&logo=visualstudiocode&logoColor=22D3EE)
-![Networking](https://img.shields.io/badge/Networking-0A101F?style=flat-square&logo=cisco&logoColor=22D3EE)
-![Python](https://img.shields.io/badge/Python-Learning-0A101F?style=flat-square&logo=python&logoColor=3776AB)
+![Linux](https://img.shields.io/badge/Linux-0A101F?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-0A101F?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE)
 
 </div>
 
-## `featured_projects`
+> Add additional tools such as Wireshark, Nmap, Python, or Burp Suite when you have hands-on experience with them.
 
-Explore my [portfolio website](https://zerotrace-labs.github.io/PORTFOLIO/) for my projects, labs, and technical work.
+## `04 // FEATURED PROJECTS`
 
-I'm working toward documenting projects with clear objectives, methodology, tools, evidence, findings, and remediation recommendations.
+Explore my [Cybersecurity Portfolio](https://zerotrace-labs.github.io/PORTFOLIO/) for my projects, security labs, and technical work.
 
-> Projects should demonstrate what I actually built, tested, discovered, and learned.
+I'm working toward documenting projects with a clear structure:
 
-## `github_activity`
+- **Objective:** What problem the project addresses.
+- **Environment:** Systems and tools used.
+- **Methodology:** Steps taken during the investigation or test.
+- **Evidence:** Relevant screenshots, logs, or results.
+- **Findings:** What the work revealed.
+- **Remediation:** How identified issues could be addressed.
+- **Lessons learned:** Skills and concepts demonstrated.
+
+## `05 // GITHUB STATISTICS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ZeroTrace-Labs&show_icons=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=C9D1D9&icon_color=10B981&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZeroTrace-Labs&show_icons=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=C9D1D9&icon_color=10B981&hide_rank=true" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroTrace-Labs&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=C9D1D9" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroTrace-Labs&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=C9D1D9" alt="Most used programming languages"/>
 
-<img src="https://streak-stats.demolab.com?user=ZeroTrace-Labs&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="100%" alt="GitHub contribution streak"/>
+<br/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=ZeroTrace-Labs&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
 
 </div>
 
-## `current_mission`
-
-- Strengthen my computer science and cybersecurity foundations.
-- Build practical, documented security and testing projects.
-- Improve my Linux, networking, and troubleshooting skills.
-- Develop a portfolio that demonstrates real technical progress.
-
-## `connect`
+## `06 // CONTRIBUTION SNAKE`
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://zerotrace-labs.github.io/PORTFOLIO/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZeroTrace-Labs/ZeroTrace-Labs/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZeroTrace-Labs/ZeroTrace-Labs/output/github-contribution-grid-snake.svg"/>
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/ZeroTrace-Labs/ZeroTrace-Labs/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
-[![GitHub](https://img.shields.io/badge/Follow_My_Work-0A101F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/ZeroTrace-Labs)
+</div>
+
+## `07 // CURRENT MISSION`
+
+- Strengthen my Computer Science and Cyber Security foundations.
+- Develop practical skills in Linux, networking, and security testing.
+- Build and document meaningful technical projects.
+- Improve my understanding of vulnerability assessment and defensive security.
+- Create a portfolio that demonstrates measurable technical progress.
+
+## `08 // CONNECT`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/WEBSITE-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://zerotrace-labs.github.io/PORTFOLIO/)
+[![GitHub](https://img.shields.io/badge/GITHUB-0A101F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/ZeroTrace-Labs)
 
 </div>
 
@@ -108,6 +128,8 @@ I'm working toward documenting projects with clear objectives, methodology, tool
 
 <div align="center">
 
-<sub><code>ZERO TRUST · CONTINUOUS LEARNING · SECURITY BY DESIGN</code></sub>
+**ZERO TRUST · CONTINUOUS LEARNING · SECURITY BY DESIGN**
+
+<sub>Learn. Build. Test. Secure.</sub>
 
 </div>
